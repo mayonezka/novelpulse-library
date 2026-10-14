@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mayonezka.github.io/novelpulse-library/sitemap.xml
